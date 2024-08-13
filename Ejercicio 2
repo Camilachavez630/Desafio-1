@@ -5,7 +5,7 @@ usuario_premium = int(input("Ingrese número de usuarios premiun:\n"))
 gasto_total= int(input("Ingrese el gasto total:\n"))
 
 
-# Aumento en 50%
+# 50% aumento
 incremento = (precio_suscripcion * usuario_premium) * 1.5
 
 
